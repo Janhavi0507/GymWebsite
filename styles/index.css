@@ -2,7 +2,7 @@ body {
   margin: 0px;
   padding: 0px;
   color: white;
-  background: url('/media/gym1.jpg');
+  background: url('../media/gym1.jpg');
 }
 
 .left {
